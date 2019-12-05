@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tftitems/static/css/main.dc78eb17.chunk.css",
+    "main.js": "/tftitems/static/js/main.e7f4e3b4.chunk.js",
+    "main.js.map": "/tftitems/static/js/main.e7f4e3b4.chunk.js.map",
+    "runtime-main.js": "/tftitems/static/js/runtime-main.c9d0bc91.js",
+    "runtime-main.js.map": "/tftitems/static/js/runtime-main.c9d0bc91.js.map",
+    "static/js/2.d42e716b.chunk.js": "/tftitems/static/js/2.d42e716b.chunk.js",
+    "static/js/2.d42e716b.chunk.js.map": "/tftitems/static/js/2.d42e716b.chunk.js.map",
+    "index.html": "/tftitems/index.html",
+    "precache-manifest.15fc2d7207f2523301a2080a7df91cbe.js": "/tftitems/precache-manifest.15fc2d7207f2523301a2080a7df91cbe.js",
+    "service-worker.js": "/tftitems/service-worker.js",
+    "static/css/main.dc78eb17.chunk.css.map": "/tftitems/static/css/main.dc78eb17.chunk.css.map",
+    "static/media/elements.jpeg": "/tftitems/static/media/elements.9d846b1c.jpeg",
+    "static/media/golden-spatula.png": "/tftitems/static/media/golden-spatula.012575dd.png",
+    "static/media/hauntlingbackground.jpeg": "/tftitems/static/media/hauntlingbackground.eb7b6abc.jpeg",
+    "static/media/logo.svg": "/tftitems/static/media/logo.25bf045c.svg",
+    "static/media/App.css": "/tftitems/static/media/penguinsword.09da0e43.jpeg",
+    "static/media/talisman-of-light.png": "/tftitems/static/media/talisman-of-light.e8f69e0e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9d0bc91.js",
+    "static/js/2.d42e716b.chunk.js",
+    "static/css/main.dc78eb17.chunk.css",
+    "static/js/main.e7f4e3b4.chunk.js"
+  ]
+}
