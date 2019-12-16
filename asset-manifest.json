@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tftitems/static/css/main.f1ac3311.chunk.css",
+    "main.css": "/tftitems/static/css/main.a6804fa8.chunk.css",
     "main.js": "/tftitems/static/js/main.dbfb4ada.chunk.js",
     "main.js.map": "/tftitems/static/js/main.dbfb4ada.chunk.js.map",
     "runtime-main.js": "/tftitems/static/js/runtime-main.c9d0bc91.js",
@@ -8,9 +8,9 @@
     "static/js/2.d42e716b.chunk.js": "/tftitems/static/js/2.d42e716b.chunk.js",
     "static/js/2.d42e716b.chunk.js.map": "/tftitems/static/js/2.d42e716b.chunk.js.map",
     "index.html": "/tftitems/index.html",
-    "precache-manifest.c5f2c92d64e25d5fe873687e7954dff5.js": "/tftitems/precache-manifest.c5f2c92d64e25d5fe873687e7954dff5.js",
+    "precache-manifest.0029f3a44ba0f803278b62aee09a125b.js": "/tftitems/precache-manifest.0029f3a44ba0f803278b62aee09a125b.js",
     "service-worker.js": "/tftitems/service-worker.js",
-    "static/css/main.f1ac3311.chunk.css.map": "/tftitems/static/css/main.f1ac3311.chunk.css.map",
+    "static/css/main.a6804fa8.chunk.css.map": "/tftitems/static/css/main.a6804fa8.chunk.css.map",
     "static/media/elements.jpeg": "/tftitems/static/media/elements.9d846b1c.jpeg",
     "static/media/golden-spatula.png": "/tftitems/static/media/golden-spatula.012575dd.png",
     "static/media/hauntlingbackground.jpeg": "/tftitems/static/media/hauntlingbackground.eb7b6abc.jpeg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.c9d0bc91.js",
     "static/js/2.d42e716b.chunk.js",
-    "static/css/main.f1ac3311.chunk.css",
+    "static/css/main.a6804fa8.chunk.css",
     "static/js/main.dbfb4ada.chunk.js"
   ]
 }
