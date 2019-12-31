@@ -323,10 +323,6 @@ class App extends React.Component {
               <p>Iceborne Gauntlet</p>
               <span>On dodge, create an expandable zone that lowers Attack Speed by 35%.</span>
             </ReactTooltip>
-            <ReactTooltip id="guardianangel" place="top" type="dark" effect="float">
-              <p>Guardian Angel</p>
-              <span>Wearer revives with 400 health.</span>
-            </ReactTooltip>
             <ReactTooltip id="hush" place="top" type="dark" effect="float">
               <p>Hush</p>
               <span>Attacks have a 25% chance to prevent the enemy champion from gaining mana for four seconds.</span>
@@ -334,6 +330,10 @@ class App extends React.Component {
             <ReactTooltip id="hextechgunblade" place="top" type="dark" effect="float">
               <p>Hextech Gunblade</p>
               <span>Heal for 25% of all damage dealt.</span>
+            </ReactTooltip>
+            <ReactTooltip id="handofjustice" place="top" type="dark" effect="float">
+              <p>Hand of Justice</p>
+              <span>On round start, either gain 50% more damage or 50 life on hit.</span>
             </ReactTooltip>
             <ReactTooltip id="guardianangel" place="top" type="dark" effect="float">
               <p>Guardian Angel</p>
@@ -491,7 +491,7 @@ class App extends React.Component {
               <p>Frozen Mallet</p>
               <span>Wearer is also a Glacial.</span>
             </ReactTooltip>
-            <ReactTooltip id="frozenmallet" place="top" type="dark" effect="float">
+            <ReactTooltip id="frozenheart" place="top" type="dark" effect="float">
               <p>Frozen Heart</p>
               <span>Adjacent enemies lose 35% attack speed for 1 second.</span>
             </ReactTooltip>
